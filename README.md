@@ -97,6 +97,8 @@ Unlike standard pathfinding code that runs in a blocking loop, AURA’s algorith
 
 To run the project on your machine, perform the following commands in the workspace directory:
 
+_You need to have npm installed on your machine_
+
 1.  **Install dependencies:**
     ```bash
     npm install
